@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00aa2a&width=600&lines=Welcome!+;Data+Engineer;Machine+Learning+Enthusiast;Chemical+Engineer;Optimizing+Wastewater+Processes)](https://git.io/typing-svg)
 ---
-## Toolbox
 ---
+## Toolbox
+
 ## Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 [![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
