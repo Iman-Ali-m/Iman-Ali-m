@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=955&color=00aa2a&width=600&lines=('o')Welcome('o')+;Software+Engineer;Expert+Machine+Learning;Expert+Neural+Network;Expert+Natural+Language;Expert+Large+Language+Model;Expert+Internet+of+Things;Expert+Building+Website+Application+Robot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=955&color=00aa2a&width=600&lines=\'o'/Welcome\'o'/+;Software+Engineer;Expert+Machine+Learning;Expert+Neural+Network;Expert+Natural+Language;Expert+Large+Language+Model;Expert+Internet+of+Things;Expert+Building+Website+Application+Robot)](https://git.io/typing-svg)
 ## 👋Hi
 I am a software engineer, AI researcher and university lecturer, researching the integration of Large Language Models (LLM) and Neural Networks in Internet of Things (IoT) ecosystems. My strong foundation in programming languages ​​allows me to bridge the gap between scalable and advanced deep learning and provide intelligent, low-latency solutions for edge devices and connected environments.
 
