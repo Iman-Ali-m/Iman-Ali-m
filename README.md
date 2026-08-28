@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&color=00aa2a&width=600&lines=('پ')Welcome('ب')+;Software+Engineer;Machine+Learning;Neural+Network;Natural+Language;Large+Language+Model;Internet+of+Things;Website+Application+Robot+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=955&color=00aa2a&width=600&lines=('o')Welcome('o')+;Software+Engineer;Machine+Learning;Neural+Network;Natural+Language;Large+Language+Model;Internet+of+Things;Website+Application+Robot+Building)](https://git.io/typing-svg)
 ## 👋Hi
 I am a software engineer, AI researcher and university lecturer, researching the integration of Large Language Models (LLM) and Neural Networks in Internet of Things (IoT) ecosystems. My strong foundation in programming languages ​​allows me to bridge the gap between scalable and advanced deep learning and provide intelligent, low-latency solutions for edge devices and connected environments.
 
@@ -8,7 +8,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 
 - I am currently researching the application of LLM in advanced real-time analytics, anomaly detection and automated decision making at the edge
 
-- Developing expertise in fine-tuning open-source language models (LLaMA, GPT-based architectures) and optimizing neural networks for resource-constrained devices
+- Developing expertise in fine-tuning open-source language models (LLAMA, GPT-based architectures) and optimizing neural networks for resource-constrained devices
 
 - Interested in collaborating on projects including industrial AI, edge intelligence, NLP-based automation and advanced neural network research
 
