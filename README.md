@@ -48,7 +48,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 [![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/gpt-4)
 [![Llama](https://img.shields.io/badge/LLAMA-2C3E50?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
 
-### Persian NLP
+###  Natural Language Processing (NLP)
 [![Hazm](https://img.shields.io/badge/HAZM-FFB13B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sobhe/hazm)
 [![Parsivar](https://img.shields.io/badge/PARSIVAR-56B4E9?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ICTRC/Parsivar)
 
