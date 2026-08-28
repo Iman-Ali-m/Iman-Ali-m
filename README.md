@@ -30,7 +30,7 @@
 [![Requests](https://img.shields.io/badge/REQUESTS-00599C?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/)
 [![aiohttp](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=python&logoColor=white)](https://docs.aiohttp.org/)
 
-## Large Language Models (LLMs)
+## Large Language Models (LLM)
 [![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/gpt-4)
 [![Llama](https://img.shields.io/badge/LLAMA-2C3E50?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
 
