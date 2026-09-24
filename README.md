@@ -80,7 +80,6 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Unity](https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Proteus](https://img.shields.io/badge/PROTEUS-1C3A5E?style=for-the-badge&logo=circuitverse&logoColor=white)
 
 ### Tools & IDEs
