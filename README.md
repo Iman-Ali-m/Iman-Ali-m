@@ -18,7 +18,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ### Programming Languages
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
@@ -39,7 +39,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ### GUI & Desktop Development
 ![Tkinter](https://img.shields.io/badge/TKINTER-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PYQT-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Kivy](https://img.shields.io/badge/KIVY-2C3E50?style=for-the-badge&logo=kivy&logoColor=white)
+![Kivy](https://img.shields.io/badge/KIVY-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/PYGAME-2E3440?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development
@@ -68,7 +68,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![spaCy](https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### Large Language Models (LLM)
-![ChatGPT](https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=chatbot&logoColor=white)
 ![Llama](https://img.shields.io/badge/LLAMA-2C3E50?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -86,6 +86,6 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ### Tools & IDEs
 ![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/APACHE_NETBEANS-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
