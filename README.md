@@ -89,48 +89,4 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-<!-- 1. اختصاصی اصلی -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<!-- 2. اختصاصی جدید -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
-
-<!-- 3. Visual Studio (خواهر VS Code) -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-<!-- 4. عمومی code -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
-
-<!-- 5. عمومی microsoft -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
-
-<!-- 6. عمومی github -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- 7. عمومی coder -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=coder&logoColor=white)
-
-<!-- 8. عمومی codeblocks -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=codeblocks&logoColor=white)
-
-<!-- 9. عمومی codeigniter -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=codeigniter&logoColor=white)
-
-<!-- 10. عمومی codepen -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=codepen&logoColor=white)
-
-<!-- 11. عمومی codesandbox -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=codesandbox&logoColor=white)
-
-<!-- 12. عمومی intellijidea -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-<!-- 13. عمومی eclipse -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-<!-- 14. عمومی neovim -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=neovim&logoColor=white)
-
-<!-- 15. عمومی vim -->
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=vim&logoColor=white)
 
