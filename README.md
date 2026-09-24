@@ -66,11 +66,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 [![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### IDEs & Embedded Tools
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Unity](https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Proteus](https://img.shields.io/badge/PROTEUS-1C3A5E?style=for-the-badge)
+
 
 ### Tools & IDEs
 [![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
@@ -78,3 +74,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 [![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Proteus](https://img.shields.io/badge/PROTEUS-1C3A5E?style=for-the-badge)
