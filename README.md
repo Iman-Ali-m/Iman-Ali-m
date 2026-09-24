@@ -1,21 +1,30 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=955&color=00aa2a&lines=(\\'o'/)Welcome(\\'o'/)+;Software+Engineer;Expert+Machine+Learning;Expert+Neural+Network;Expert+Natural+Language;Expert+Large+Language+Model;Expert+Internet+of+Things;Expert+Building+Website+Application+Robot)](https://git.io/typing-svg)
 
+## 👋 Hi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=955&color=00aa2a&width=600&lines=(\\'o'/)Welcome(\\'o'/)+;Software+Engineer;Expert+Machine+Learning;Expert+Neural+Network;Expert+Natural+Language;Expert+Large+Language+Model;Expert+Internet+of+Things;Expert+Building+Website+Application+Robot)](https://git.io/typing-svg)
-## 👋Hi
-I am a software engineer, AI researcher and university lecturer, researching the integration of Large Language Models (LLM) and Neural Networks in Internet of Things (IoT) ecosystems. My strong foundation in programming languages ​​allows me to bridge the gap between scalable and advanced deep learning and provide intelligent, low-latency solutions for edge devices and connected environments.
+I am a software engineer, AI researcher and university lecturer, researching the integration of Large Language Models (LLM) and Neural Networks in Internet of Things (IoT) ecosystems. My strong foundation in programming languages allows me to bridge the gap between scalable and advanced deep learning and provide intelligent, low-latency solutions for edge devices and connected environments.
 
-- I currently teach Programming Languages ​​at the Azad University.
-
-- I am currently researching the application of LLM in advanced real-time analytics, anomaly detection and automated decision making at the edge
-
-- Developing expertise in fine-tuning open-source language models (LLAMA, GPT-based architectures) and optimizing neural networks for resource-constrained devices
-
-- Interested in collaborating on projects including industrial AI, edge intelligence, NLP-based automation and advanced neural network research
-
-- Interested in natural language processing, embedded AI, deep learning architectures, and the convergence of generative AI with physical systems
+- I currently teach Programming Languages at the Azad University.
+- I am currently researching the application of LLM in advanced real-time analytics, anomaly detection and automated decision making at the edge.
+- Developing expertise in fine-tuning open-source language models (LLAMA, GPT-based architectures) and optimizing neural networks for resource-constrained devices.
+- Interested in collaborating on projects including industrial AI, edge intelligence, NLP-based automation and advanced neural network research.
+- Interested in natural language processing, embedded AI, deep learning architectures, and the convergence of generative AI with physical systems.
 - Communication method: imanalimohamadi806@gmail.com
+
 ---
+
 # Toolbox
+
+### Programming Languages
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/ASSEMBLY-525252?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,7 +57,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 [![GPT](https://img.shields.io/badge/GPT-4--412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/gpt-4)
 [![Llama](https://img.shields.io/badge/LLAMA-2C3E50?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
 
-###  Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 [![Hazm](https://img.shields.io/badge/HAZM-FFB13B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sobhe/hazm)
 [![Parsivar](https://img.shields.io/badge/PARSIVAR-56B4E9?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ICTRC/Parsivar)
 
@@ -56,6 +65,12 @@ I am a software engineer, AI researcher and university lecturer, researching the
 [![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### IDEs & Embedded Tools
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Proteus](https://img.shields.io/badge/PROTEUS-1C3A5E?style=for-the-badge)
 
 ### Tools & IDEs
 [![Colab](https://img.shields.io/badge/COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
