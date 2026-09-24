@@ -68,7 +68,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![spaCy](https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### Large Language Models (LLM)
-![GPT](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=chatbot&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=chatbot&logoColor=white)
 ![Llama](https://img.shields.io/badge/LLAMA-2C3E50?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -89,3 +89,11 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
