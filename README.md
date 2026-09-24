@@ -68,7 +68,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![spaCy](https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### Large Language Models (LLM)
-![GPT](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Llama](https://img.shields.io/badge/LLAMA-2C3E50?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
