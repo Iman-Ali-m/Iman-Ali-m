@@ -17,14 +17,15 @@ I am a software engineer, AI researcher and university lecturer, researching the
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASSEMBLY-525252?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/ASSEMBLY-525252?style=for-the-badge)
+
 
 
 ### GUI & Desktop Development
@@ -39,6 +40,12 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ### Networking & HTTP Clients
 [![Requests](https://img.shields.io/badge/REQUESTS-00599C?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/)
 [![aiohttp](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=python&logoColor=white)](https://docs.aiohttp.org/)
+
+
+### Databases
+[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### Data Analysis & Visualization
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -63,10 +70,6 @@ I am a software engineer, AI researcher and university lecturer, researching the
 
 
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### IDEs & Embedded Tools
 ![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
