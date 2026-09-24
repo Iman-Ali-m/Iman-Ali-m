@@ -89,5 +89,4 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=code&logoColor=white)
 
