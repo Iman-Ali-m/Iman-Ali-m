@@ -78,7 +78,7 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### IDEs & Embedded Tools
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Unity](https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Proteus](https://img.shields.io/badge/PROTEUS-1C3A5E?style=for-the-badge&logo=circuitverse&logoColor=white)
@@ -90,40 +90,4 @@ I am a software engineer, AI researcher and university lecturer, researching the
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-
-<!-- 1. اختصاصی اصلی -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-<!-- 2. اختصاصی جدید -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<!-- 3. عمومی android -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-
-<!-- 4. عمومی jetbrains -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=jetbrains&logoColor=white)
-
-<!-- 5. عمومی intellijidea (چون Android Studio بر پایه آن است) -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-<!-- 6. عمومی kotlin (زبان اصلی اندروید) -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white)
-
-<!-- 7. عمومی java (زبان رسمی اندروید) -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!-- 8. عمومی googleplay -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)
-
-<!-- 9. عمومی google -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=google&logoColor=white)
-
-<!-- 10. عمومی gradle (بیلد سیستم اندروید) -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=gradle&logoColor=white)
-
-<!-- 11. عمومی materialdesign -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=materialdesign&logoColor=white)
-
-<!-- 12. عمومی mobile -->
-![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
